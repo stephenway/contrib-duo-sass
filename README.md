@@ -2,6 +2,8 @@
 
 Compile Sass to CSS with Duo
 
+[![Build Status](https://travis-ci.org/stephenway/duo-sass.svg?branch=master)](https://travis-ci.org/stephenway/duo-sass)
+
 ## Usage
 
 ``` shell
