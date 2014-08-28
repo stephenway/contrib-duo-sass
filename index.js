@@ -1,14 +1,18 @@
-/* Module dependencies */
+/**
+ * Module dependencies.
+ */
 
 var debug = require('debug')('duo-sass');
 var sass = require('node-sass');
 
-/* Export `plugin` */
+/**
+ * Export `plugin`.
+ */
 
 module.exports = plugin;
 
 /**
- * Compile sass to css, optional using `opts`.
+ * Compile Sass to CSS, optional using `opts`.
  *
  * @api public
  * @param {Object} [opts]
@@ -26,7 +30,7 @@ function plugin(opts) {
 }
 
 /**
- * Render the sass `src` with `opts`.
+ * Render the Sass `src` with `opts`.
  *
  * @api private
  * @param {String} src

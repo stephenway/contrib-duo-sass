@@ -13,7 +13,7 @@ node_modules: package.json
 	@touch $@
 
 %.css: %.scss
-	@$(BIN)/sass < $< > $@
+	@$(BIN)/node-sass < $< > $@
 
 clean:
 	rm -rf test/fixtures/*/{components,*.css}
