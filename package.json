@@ -1,0 +1,23 @@
+{
+  "name": "duo-sass",
+  "version": "1.0.0",
+  "description": "Sass plugin for Duo",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenway/duo-sass.git"
+  },
+  "keywords": [
+    "duo",
+    "sass"
+  ],
+  "author": "Stephen Way <stephen@stephenway.net> (http://stephenway.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenway/duo-sass/issues"
+  },
+  "homepage": "https://github.com/stephenway/duo-sass"
+}
