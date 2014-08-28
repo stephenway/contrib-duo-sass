@@ -1,6 +1,6 @@
 # duo-sass
 
-Compile Sass to Css with Duo
+Compile Sass to CSS with Duo
 
 ## Usage
 
