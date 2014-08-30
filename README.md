@@ -1,8 +1,6 @@
-# duo-sass
+# duo-sass [![Build Status](https://travis-ci.org/stephenway/duo-sass.svg?branch=master)](https://travis-ci.org/stephenway/duo-sass)
 
-Compile Sass to CSS with Duo
-
-[![Build Status](https://travis-ci.org/stephenway/duo-sass.svg?branch=master)](https://travis-ci.org/stephenway/duo-sass)
+> Compile Sass to CSS with Duo
 
 ## Usage
 
@@ -30,4 +28,6 @@ co(function *(){
 
 Please refer to [node-sass options](https://github.com/sass/node-sass#usage).
 
-**Licensed under MIT**
+## License
+
+MIT
