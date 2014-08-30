@@ -1,8 +1,13 @@
-# duo-sass [![Build Status](https://travis-ci.org/stephenway/duo-sass.svg?branch=master)](https://travis-ci.org/stephenway/duo-sass)
+![duo-sass](https://i.cloudup.com/nNMvpUip5c-2000x2000.png)
+
+[![build status][travis-image]][travis-url]
+
+[travis-image]: https://img.shields.io/travis/stephenway/duo-sass.svg?style=flat
+[travis-url]: https://travis-ci.org/stephenway/duo-sass
 
 > Compile [Sass](http://sass-lang.com/) to [CSS](http://www.w3.org/Style/CSS/Overview.en.html) with [Duo.js](http://duojs.org/)
 
-## Install
+## Installation
 
 `npm install -g git+https://git@github.com/stephenway/duo-sass.git` 
 
