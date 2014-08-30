@@ -5,7 +5,7 @@
 [travis-image]: https://img.shields.io/travis/stephenway/duo-sass.svg?style=flat
 [travis-url]: https://travis-ci.org/stephenway/duo-sass
 
-> Compile [Sass](http://sass-lang.com/) to [CSS](http://www.w3.org/Style/CSS/Overview.en.html) with [Duo.js](http://duojs.org/)
+> **duo-sass** compiles [Sass](http://sass-lang.com/) to [CSS](http://www.w3.org/Style/CSS/Overview.en.html) with [Duo.js](http://duojs.org/)
 
 ## Installation
 
