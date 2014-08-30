@@ -4,7 +4,7 @@ SASS = $(wildcard test/fixtures/*/*.scss)
 CSS = $(SASS:.scss=.css)
 
 test: node_modules $(CSS)
-	@$(BIN)/gnode $(BIN)/mocha \
+	@$(BIN)/gnode $(BIN)/_mocha \
 	  --reporter $(REPORTER) \
 	  --require co-mocha
 
