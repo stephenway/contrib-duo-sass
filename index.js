@@ -2,6 +2,7 @@
  * Module dependencies.
  */
 
+var assign = require('object-assign');
 var debug = require('debug')('duo-sass');
 var sass = require('node-sass');
 
@@ -39,5 +40,5 @@ function plugin(opts) {
  */
 
 function render(src, opts) {
-  return sass(src, opts).render();
+  return sass.renderSync(assign(opts, { data: src }));
 }
