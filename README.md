@@ -26,4 +26,8 @@ co(function *(){
 })();
 ```
 
+## Options
+
+Please refer to [node-sass options](https://github.com/sass/node-sass#usage).
+
 **Licensed under MIT**
