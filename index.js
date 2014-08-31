@@ -3,7 +3,7 @@
  */
 
 var assign = require('object-assign');
-var debug = require('debug')('duo-sass');
+var debug = require('debug')('duosass');
 var sass = require('node-sass');
 
 /**

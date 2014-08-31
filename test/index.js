@@ -7,7 +7,7 @@ var join = path.join;
 var extname = path.extname;
 var sass = require('..');
 
-describe('duo-sass', function () {
+describe('duosass', function () {
   it('should transpile sass to css', function *() {
     var root = fixture('simple');
     var duo = Duo(root);
