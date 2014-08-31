@@ -1,9 +1,7 @@
 ![duo-sass](https://i.cloudup.com/nNMvpUip5c-2000x2000.png)
 
+[![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
-
-[travis-image]: https://img.shields.io/travis/stephenway/duo-sass.svg?style=flat
-[travis-url]: https://travis-ci.org/stephenway/duo-sass
 
 > **duo-sass** compiles [Sass](http://sass-lang.com/) to [CSS](http://www.w3.org/Style/CSS/Overview.en.html) with [Duo.js](http://duojs.org/)
 
@@ -45,3 +43,8 @@ Also check out our [contributors](https://github.com/stephenway/duo-sass/graphs/
 ## License
 
 MIT
+
+[npm-image]: https://img.shields.io/npm/v/duosass.svg?style=flat
+[npm-url]: https://npmjs.org/package/duosass
+[travis-image]: https://img.shields.io/travis/stephenway/duo-sass.svg?style=flat
+[travis-url]: https://travis-ci.org/stephenway/duo-sass
