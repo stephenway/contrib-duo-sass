@@ -9,7 +9,7 @@
 
 ## Installation
 
-`npm install -g git+https://git@github.com/stephenway/duo-sass.git` 
+`npm install -g duosass` 
 
 *Note: This package is not yet published, please check back later or watch the project.*
 
