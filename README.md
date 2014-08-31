@@ -39,7 +39,7 @@ Please refer to [node-sass options](https://github.com/sass/node-sass#usage).
 
 ## Contributors
 
-This project wouldn't be possible without the help of [@kevva](https://github.com/kevva).<br>
+This project wouldn't be possible without the help of [@kevva](https://github.com/kevva) & [@stephenmathieson](https://github.com/stephenmathieson).<br>
 Also check out our [contributors](https://github.com/stephenway/duo-sass/graphs/contributors) page.
 
 ## License
