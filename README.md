@@ -9,9 +9,7 @@
 
 ## Installation
 
-`npm install -g duosass` 
-
-*Note: This package is not yet published, please check back later or watch the project.*
+#### `npm install -g duosass` 
 
 ## Usage
 
