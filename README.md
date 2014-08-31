@@ -14,7 +14,7 @@
 ## Usage
 
 ``` shell
-duo --use duo-sass input.scss > output.css
+duo --use duosass input.scss > output.css
 ```
 
 ## API Usage
@@ -22,7 +22,7 @@ duo --use duo-sass input.scss > output.css
 ``` js
 var co = require('co');
 var Duo = require('duo');
-var sass = require('duo-sass');
+var sass = require('duosass');
 
 co(function *(){
   var duo = Duo(__dirname);
