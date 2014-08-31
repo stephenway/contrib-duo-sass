@@ -2,3 +2,4 @@ npm-debug.log
 test/fixtures/*/components
 test/fixtures/*/*.css
 node_modules
+pakmanaged.js
