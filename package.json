@@ -1,6 +1,6 @@
 {
   "name": "duosass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sass plugin for Duo",
   "main": "index.js",
   "scripts": {
